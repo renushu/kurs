@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first-container {
+    width: 600px;
+    height: 650px;
+    background-color:rgb(132, 178, 194);
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+}
+
+
+#car_image{
+    width: 500px;
+    height: 400px;
+    margin: 20px auto ;
+    border-radius: 50px;
+}
+.xett{ 
+    margin-top: 10px;
+    border: 1px solid blue;
+}
+.second-container{
+    display: flex;
+    color: red;
+    align-items: center;
+    gap: 10px;
+    padding-top: 40px;
+    padding-left: 120px;
+}
+.price-icon{
+    width: 50px !important;
+    height: 50px !important;
+}
+
