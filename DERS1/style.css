@@ -21,7 +21,7 @@
     margin: 20px auto ;
     border-radius: 50px;
 }
-.xett{ 
+.blue_line{ 
     margin-top: 10px;
     border: 1px solid blue;
 }
@@ -30,8 +30,8 @@
     color: red;
     align-items: center;
     gap: 10px;
-    padding-top: 40px;
-    padding-left: 120px;
+    justify-content: center;
+    padding: 20px;
 }
 .price-icon{
     width: 50px !important;
